@@ -1,0 +1,11 @@
+product_id,name,category,price,avg_rating,rating_count,cluster
+1,Wireless Mouse,Electronics,19.99,4.0,3,0
+2,Mechanical Keyboard,Electronics,79.9,4.666666666666667,3,2
+3,USB-C Cable,Electronics,9.5,4.0,2,0
+4,Stainless Water Bottle,Home,24.0,4.5,2,0
+5,Ceramic Mug,Home,8.99,4.0,3,0
+6,Running T-Shirt,Clothing,15.0,3.5,2,1
+7,Slim Fit Jeans,Clothing,42.0,4.333333333333333,3,1
+8,Data Science Book,Books,35.0,3.3333333333333335,3,3
+9,Novel: The Wanderer,Books,12.5,4.5,2,3
+10,Noise Cancelling Headphones,Electronics,129.0,4.666666666666667,3,2

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# VSCode
+.vscode/
+
+# Spark outputs
+artifacts/**/._SUCCESS
+artifacts/**/_SUCCESS
+artifacts/**/.part-* 
+
+# Streamlit
+.streamlit/
