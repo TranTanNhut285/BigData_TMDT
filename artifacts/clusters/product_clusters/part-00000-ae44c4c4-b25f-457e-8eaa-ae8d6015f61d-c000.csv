@@ -1,0 +1,11 @@
+product_id,name,category,price,avg_rating,rating_count,cluster
+1,Chuột Không Dây,Electronics,19.99,4.0,3,0
+2,Bàn Phím Cơ,Electronics,79.9,4.666666666666667,3,2
+3,Cáp USB-C,Electronics,9.5,4.0,2,0
+4,Bình Nước Inox,Home,24.0,4.5,2,0
+5,Cốc Sứ,Home,8.99,4.0,3,0
+6,Áo Thun Thể Thao,Clothing,15.0,3.5,2,1
+7,Quần Jean Slim Fit,Clothing,42.0,4.333333333333333,3,1
+8,Sách Khoa Học Dữ Liệu,Books,35.0,3.3333333333333335,3,3
+9,Tiểu Thuyết: Người Lữ Hành,Books,12.5,4.5,2,3
+10,Tai Nghe Chống Ồn,Electronics,129.0,4.666666666666667,3,2

@@ -1,11 +1,11 @@
 product_id,name,category,price
-1,Wireless Mouse,Electronics,19.99
-2,Mechanical Keyboard,Electronics,79.90
-3,USB-C Cable,Electronics,9.50
-4,Stainless Water Bottle,Home,24.00
-5,Ceramic Mug,Home,8.99
-6,Running T-Shirt,Clothing,15.00
-7,Slim Fit Jeans,Clothing,42.00
-8,Data Science Book,Books,35.00
-9,Novel: The Wanderer,Books,12.50
-10,Noise Cancelling Headphones,Electronics,129.00
+1,Chuột Không Dây,Electronics,19.99
+2,Bàn Phím Cơ,Electronics,79.90
+3,Cáp USB-C,Electronics,9.50
+4,Bình Nước Inox,Home,24.00
+5,Cốc Sứ,Home,8.99
+6,Áo Thun Thể Thao,Clothing,15.00
+7,Quần Jean Slim Fit,Clothing,42.00
+8,Sách Khoa Học Dữ Liệu,Books,35.00
+9,Tiểu Thuyết: Người Lữ Hành,Books,12.50
+10,Tai Nghe Chống Ồn,Electronics,129.00
